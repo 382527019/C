@@ -1,6 +1,0 @@
-﻿  ConsoleApplication1.cpp
-C:\Users\0\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
-C:\Users\0\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(11,6): warning C4101: “m”: 未引用的局部变量
-C:\Users\0\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(46,7): warning C4101: “join”: 未引用的局部变量
-C:\Users\0\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(176,6): warning C4101: “k”: 未引用的局部变量
-  ConsoleApplication1.vcxproj -> C:\Users\0\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
